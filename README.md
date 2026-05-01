@@ -2,7 +2,7 @@ Hi, I am Fariha Taskin, a Ph.D. student in Statistics at the University of Texas
 
 I completed my B.S. and M.S. in Applied Statistics from the Institute of Statistical Research and Training (ISRT), University of Dhaka.
 
-My current research focuses on causal structure learning, Bayesian methods, and graphical models for heterogeneous biomedical data. In particular, I work on order-based structure learning for multiple directed acyclic graphs and zero-inflated count data, with applications to single-cell RNA-seq gene regulatory network analysis.
+My current research focuses on causal structure learning, Bayesian methods, and graphical models for heterogeneous biomedical data. In particular, I work on order-based structure learning for multiple directed acyclic graphs, with applications to single-cell RNA-seq gene regulatory network analysis.
 
 Email: fxt220013@utdallas.edu  
 LinkedIn: https://www.linkedin.com/in/fariha-taskin/  
